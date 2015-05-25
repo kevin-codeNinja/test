@@ -1,2 +1,2 @@
-<?php echo "<h1>Hello Shinobi!</h1>";
+<?php echo "<h1>Hello Shinobi! <br> This is test!</h1>";
 ?>
